@@ -6,4 +6,4 @@ It uses huggingface image-2-text and text-2-speech model and openai to create st
 - HUGGINGFACE_API_TOKEN =
 - OPENAI_API_KEY =
 
-Give a star
+Give a star ⭐️
